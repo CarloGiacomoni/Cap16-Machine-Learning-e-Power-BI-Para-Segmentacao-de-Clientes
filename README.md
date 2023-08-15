@@ -18,7 +18,7 @@ O objetivo principal é agrupar os clientes em três segmentos distintos com bas
 
 Para este projeto usei:
 **Python 3.9.13**
-**Bibliotecas: scikit-learn, pandas, matplotlib, powerbiclient 3.1.0**
+**Bibliotecas: scikit-learn, pandas, powerbiclient 3.1.0**
 
 ## Resultados
 
