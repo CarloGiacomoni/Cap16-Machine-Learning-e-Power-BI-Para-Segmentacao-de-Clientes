@@ -1,6 +1,6 @@
 # Projeto de Segmentação de Clientes utilizando K-Means - Uso de Machine Learning no Power BI.
 
-## Uso de Machine Learning no Power BI para Segmentação de Clientes- Cap 16 do curso de Power BI da DSA (Data Science Academy).
+## Uso de Machine Learning no Power BI para Segmentação de Clientes - Cap 16 do curso de Power BI da DSA (Data Science Academy).
 
 Este projeto visa segmentar os clientes de uma empresa com base em dados históricos de compras, permitindo uma personalização mais eficaz das campanhas de marketing.  
 Utilizando Python, implementamos o algoritmo K-Means para realizar a segmentação.
