@@ -31,7 +31,7 @@ O número de clusters (segmentos) no algoritmo K-Means pode ser ajustado no cód
 Este projeto é um exemplo fictício com dados simulados. Certifique-se de substituir os dados e detalhes reais, caso aplique em um cenário real.  
 Lembre-se que por padrão o Power BI soma as bases de dados nos visuais.  
 É obrigação do analista ficar atento a esta particularidade e fazer os ajustes necessários conforme a necessidade do projeto.  
-Para este projeto fiz a partir deste Jupyter notebook a publicação dele no Power BI Service, e posteriormente o Download para o PB desktop e fazer os ajustes, incluir as médias como o projeto exigia.
+Para este projeto fiz a partir deste Jupyter notebook a publicação dele no Power BI Service, e posteriormente o Download para o PB desktop para fazer os ajustes, incluir as médias como o projeto exigia.
 
 #### Você pode ver este projeto em meu portfolio de projetos no Power BI, "Dashboard - Segmentação de Clientes", 
 neste link: https://sites.google.com/view/portfoliocarlogiacomoni
